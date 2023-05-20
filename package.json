@@ -1,6 +1,6 @@
 {
     "name": "ra-language-bangla",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Bangla messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
     "repository": {
         "type": "git",
@@ -15,7 +15,7 @@
     "module": "dist/esm/index.js",
     "types": "dist/cjs/index.d.ts",
     "scripts": {
-        "test" : "tsc --noEmit",
+        "test": "tsc --noEmit",
         "build": "npm run build-cjs && npm run build-esm",
         "build-cjs": "rimraf ./dist/cjs && tsc --outDir dist/cjs",
         "build-esm": "rimraf ./dist/esm && tsc --outDir dist/esm --module es2015",
