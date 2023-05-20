@@ -1,4 +1,4 @@
-[![All Keys are translated to Bangla](https://github.com/nokibsarkar/ra-language-bangla/actions/workflows/testing.yml/badge.svg?event=push)](https://github.com/nokibsarkar/ra-language-bangla/actions/workflows/testing.yml)
+[![All Keys are translated to Bangla](https://github.com/nokibsarkar/ra-language-bangla/actions/workflows/testing.yml/badge.svg?event=push)](https://github.com/nokibsarkar/ra-language-bangla/actions/workflows/testing.yml) [![Publish to npm](https://github.com/nokibsarkar/ra-language-bangla/actions/workflows/npm-publish.yml/badge.svg?event=release)](https://github.com/nokibsarkar/ra-language-bangla/actions/workflows/npm-publish.yml)
 # Bangla Translations for React-Admin
 
 Bangla translations for [React-Admin](https://github.com/marmelab/react-admin), the frontend framework for building admin applications on top of REST/GraphQL services.
