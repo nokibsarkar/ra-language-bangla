@@ -1,4 +1,4 @@
-name : Checking for any missing keys in the Translation
+name : All Keys are translated
 on:
     push:
         branches:
