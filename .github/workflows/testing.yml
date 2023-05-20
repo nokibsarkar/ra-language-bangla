@@ -1,4 +1,4 @@
-name : All Keys are translated
+name : All Keys are translated to Bangla
 on:
     push:
         branches:
