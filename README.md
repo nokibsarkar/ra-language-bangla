@@ -28,4 +28,4 @@ const i18nProvider = locale => messages[locale];
 ```
 ## License
 
-This translation is licensed under the [MIT](LICENSE).
+This translation is licensed under the [BSD 2 Clause](LICENSE.md).
