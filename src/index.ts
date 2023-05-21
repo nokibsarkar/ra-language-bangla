@@ -50,7 +50,7 @@ const banglaMessages: TranslationMessages = {
             dashboard: 'ড্যাশবোর্ড',
             edit: '%{recordRepresentation} সম্পাদনা করুন',
             error: 'কিছু ভুল হয়েছে',
-            list: '%{name}',
+            list: '%{name} তালিকা',
             loading: 'লোড হচ্ছে',
             not_found: 'পাওয়া যায়নি',
             show: '%{recordRepresentation} দেখান',
