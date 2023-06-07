@@ -18,6 +18,8 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: npm run build
+      - run: tree .
+      - run : ls -la
 
   publish-npm:
     needs: build
