@@ -24,5 +24,4 @@ yarn-error.log*
 
 .idea/
 
-esm
-lib
+dist
