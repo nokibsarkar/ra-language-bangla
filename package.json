@@ -15,7 +15,7 @@
     "module": "dist/esm/index.js",
     "types": "dist/cjs/index.d.ts",
     "scripts": {
-        "test": "tsc --noEmit",
+        "test": "tsc --noEmit ",
         "build": "npm run build-cjs && npm run build-esm",
         "build-cjs": "rimraf ./dist/cjs && tsc --outDir dist/cjs --module commonjs",
         "build-esm": "rimraf ./dist/esm && tsc --outDir dist/esm --module es6",
